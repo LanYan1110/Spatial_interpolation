@@ -1,11 +1,11 @@
 {
-  "input-file": "samples.xyz",
+  "input-file": "input/samples.xyz",
   "nn": {
-    "output-file": "nn.asc",
+    "output-file": "output/nn.asc",
     "cellsize": 2.0
   },
   "idw": {
-    "output-file": "idw.asc",
+    "output-file": "output/idw.asc",
     "cellsize": 1.0,
     "power": 2,
     "radius1": 15,
@@ -15,11 +15,11 @@
     "min_points": 0
   },
   "tin": {
-    "output-file": "tin.asc",
+    "output-file": "output/tin.asc",
     "cellsize": 1.0
   },
   "laplace": {
-    "output-file": "laplace.asc",
+    "output-file": "output/laplace.asc",
     "cellsize": 1.0
   }
 }
