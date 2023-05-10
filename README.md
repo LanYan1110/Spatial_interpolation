@@ -11,9 +11,9 @@ There are four implemented interpolation methods for the users to choose:
 
 ## Table of Contents
 
-- [Input file requirements](#Input_file_requirements)
-- [How to run](#How_to_run)
-- [Sample results](#Sample_results)
+- [Input file requirements](#Input-file-requirements)
+- [How to run](#How-to-run)
+- [Sample results](#Sample-results)
 
 ## Input file requirements
 
